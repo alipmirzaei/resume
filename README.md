@@ -11,12 +11,13 @@ This collection includes resumes in multiple languages to cater to different pro
 ### 📄 English Resume (`engResume.pdf`)
 - **Language**: English
 - **Target Audience**: International companies, English-speaking markets
-- **Focus**: Technical skills, AI/ML expertise, academic achievements
 
 ### 📄 Persian Resume (`perResume.pdf`)
 - **Language**: Persian (Farsi)
-- **Target Audience**: Iranian companies, Persian-speaking markets
-- **Focus**: Comprehensive background, localized presentation
+- **Target Audience**: Iranian companies, Persian-speaking markets 
+
+
+**Focus**: Technical skills, AI/ML expertise, academic achievements
 
 ## Professional Profile
 
